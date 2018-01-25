@@ -11,6 +11,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: 110%;
 }
 
 *, *::before, *::after {
@@ -24,4 +25,8 @@ body {
 .img-flex {
   display: block;
   width: 100%;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
 }
